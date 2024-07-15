@@ -1,0 +1,41 @@
+*.text1{
+    text-align: center;
+    background-color: rgb(0, 34, 255);
+    color: #ffffff;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.text2{
+    width: 500px;
+    height: 600px;
+    background-color: black;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.qzl{
+    width: 150px;
+    height: 150px;
+    background-color: crimson;
+    margin: 20px auto;
+    border-radius:100px;
+}
+
+.sarq{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(238, 255, 0);
+    margin: 20px auto;
+    border-radius:100px;
+
+}
+
+.yashl{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(64, 255, 0);
+    margin: 20px auto; margin: 0 auto;
+    border-radius:100px;
+}
